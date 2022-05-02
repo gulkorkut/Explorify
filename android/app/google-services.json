@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123808541727",
+    "firebase_url": "https://explorify205-94ef3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "explorify205-94ef3",
+    "storage_bucket": "explorify205-94ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123808541727:android:19947d427a163a5e0af92a",
+        "android_client_info": {
+          "package_name": "com.example.explorify_205"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123808541727-abra1lqjr9gqta23gpv4qd39tji38s9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8L85dNtxQL1ESqneLpv5NZO5-3sNDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123808541727-abra1lqjr9gqta23gpv4qd39tji38s9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
